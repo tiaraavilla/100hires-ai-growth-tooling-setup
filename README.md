@@ -49,6 +49,7 @@ This repository is my first step in building a public portfolio that shows not o
 | Claude Code Extension | Completed | Installed and logged in for AI assisted project understanding, documentation, and problem solving |
 | Codex Extension | Completed | Installed and logged in for AI assisted coding, file review, and workflow support |
 | GitHub | Completed | Public portfolio repository and documentation space |
+---
 
 ## Growth Marketing Relevance
 
@@ -81,6 +82,7 @@ The setup process followed a simple workflow that reflects how I approach new to
 | 7 | Write README documentation | Setup process documented clearly |
 | 8 | Commit changes | Updated README saved to GitHub |
 | 9 | Prepare submission link | README link ready to send to 100Hires |
+---
 
 ## Steps Completed
 
