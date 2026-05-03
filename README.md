@@ -46,10 +46,9 @@ This repository is my first step in building a public portfolio that shows not o
 | Tool | Status | Purpose |
 |---|---|---|
 | Cursor IDE | Completed | Main workspace for AI supported project work |
-| Claude Code Extension | Completed | AI assisted project understanding, documentation, and problem solving |
-| Codex Extension | Completed | AI assisted coding, file review, and workflow support |
+| Claude Code Extension | Completed | Installed and logged in for AI assisted project understanding, documentation, and problem solving |
+| Codex Extension | Completed | Installed and logged in for AI assisted coding, file review, and workflow support |
 | GitHub | Completed | Public portfolio repository and documentation space |
-
 ---
 
 ## Growth Marketing Relevance
@@ -91,14 +90,14 @@ The setup process followed a simple workflow that reflects how I approach new to
 | 1 | Prepared the required accounts and tools | Completed |
 | 2 | Installed Cursor IDE | Completed |
 | 3 | Explored the Cursor interface and Extensions section | Completed |
-| 4 | Installed Claude Code extension | Completed |
-| 5 | Installed Codex extension | Completed |
+| 4 | Installed and logged in to Claude Code extension | Completed |
+| 5 | Installed and logged in to Codex extension | Completed |
 | 6 | Connected Cursor with GitHub | Completed |
 | 7 | Created a public GitHub repository | Completed |
-| 8 | Created and edited the README.md file | Completed |
-| 9 | Documented issues, solutions, and learnings | Completed |
-| 10 | Committed the README.md file to GitHub | Completed |
-
+| 8 | Opened the repository in Cursor | Completed |
+| 9 | Created and edited the README.md file | Completed |
+| 10 | Documented issues, solutions, and learnings | Completed |
+| 11 | Committed the README.md file to GitHub | Completed |
 ---
 
 ## Issues I Ran Into and How I Solved Them
