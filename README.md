@@ -99,10 +99,14 @@ The setup process followed a simple workflow that reflects how I approach new to
 | 11 | Committed the README.md file to GitHub | Completed |
 ---
 
+## Setup Evidence
+
+Below are selected screenshots from the setup process. I included them to show the completed tool setup and repository workflow.
+
 | Evidence | Screenshot |
 |---|---|
-| Claude Code and Codex extension installed in Cursor | <img src="assets/Claud & Codex.png" width="500" alt="Claude Code extension installed in Cursor"> |
-| Repository opened in Cursor | <img src="assets/Cursor.png" width="500" alt="Repository opened in Cursor"> |
+| Claude Code and Codex extensions installed in Cursor | <img src="./Claud%20%26%20Codex.png" width="500" alt="Claude Code and Codex extensions installed in Cursor"> |
+| Repository opened in Cursor | <img src="./Cursor.png" width="500" alt="Repository opened in Cursor"> |
 
 ## Issues I Ran Into and How I Solved Them
 
