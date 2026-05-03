@@ -101,8 +101,8 @@ The setup process followed a simple workflow that reflects how I approach new to
 
 | Evidence | Screenshot |
 |---|---|
-| Claude Code and Codex extension installed in Cursor | <img src="assets/claud & codex.png" width="500" alt="Claude Code extension installed in Cursor"> |
-| Repository opened in Cursor | <img src="assets/cursor.png" width="500" alt="Repository opened in Cursor"> |
+| Claude Code and Codex extension installed in Cursor | <img src="assets/Claud & Codex.png" width="500" alt="Claude Code extension installed in Cursor"> |
+| Repository opened in Cursor | <img src="assets/Cursor.png" width="500" alt="Repository opened in Cursor"> |
 
 ## Issues I Ran Into and How I Solved Them
 
