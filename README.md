@@ -49,7 +49,6 @@ This repository is my first step in building a public portfolio that shows not o
 | Claude Code Extension | Completed | Installed and logged in for AI assisted project understanding, documentation, and problem solving |
 | Codex Extension | Completed | Installed and logged in for AI assisted coding, file review, and workflow support |
 | GitHub | Completed | Public portfolio repository and documentation space |
----
 
 ## Growth Marketing Relevance
 
