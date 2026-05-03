@@ -86,3 +86,4 @@ flowchart TD
 This README was created as the first step of the 100Hires portfolio project process for the Junior Growth Marketing Specialist role.
 
 Prepared by: Tiara Avilla Putri Megantara
+On 3 May 2026
